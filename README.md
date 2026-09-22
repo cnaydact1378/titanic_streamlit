@@ -1,2 +1,1 @@
-# titanic_streamlit
-test
+# 타이타닉 분석후 스트림릿 배포하였습니다.
